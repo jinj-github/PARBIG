@@ -1,0 +1,6 @@
+Gene	RBS_assignment
+ctg30_26	-
+ctg30_27	
+ctg30_28	
+ctg30_29	
+ctg30_30	
