@@ -6,10 +6,7 @@ PARBiG(www.parbig.com) is a primer design tool for the cloning and reconstructio
 ## Environment Requirements
 - Python 3.10
 ## Install Dependencies
-```bash
-pip install -r requirements.txt'''
- 
+`pip install -r requirements.txt`
 ## Run the Website
-```bash
-streamlit run generate_parbig_website.py''' 
+`streamlit run generate_parbig_website.py`
 
